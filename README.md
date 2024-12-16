@@ -18,6 +18,8 @@ Uses a Retrieval-Augmented Generation model to create detailed and structured te
 
 Supports generating example QA pairs and step-by-step guidance for test cases.
 
+Code can be generated as well (Playwright or other, with given documentation or sample cases added to RAG)
+
 ### Example Outputs
 
 Example results and progress can be seen on the wiki page: https://github.com/busraoguzoglu/Software-Test-RAG/wiki/Example-QA
