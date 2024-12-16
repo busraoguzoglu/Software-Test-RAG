@@ -1,6 +1,6 @@
 # RAG-Based Test Case Generator
 
-This system is designed to showcase the capabilities of a Retrieval-Augmented Generation (RAG) system with a small local LLM (Llama.cpp) in generating structured and detailed test cases using design documents and HTML files. 
+This system is designed to showcase the capabilities of a Retrieval-Augmented Generation (RAG) system with a small local LLM (Llama.cpp) in generating structured and detailed test cases (and code, in different frameworks) using design documents and HTML files. 
 
 ## Features
 
